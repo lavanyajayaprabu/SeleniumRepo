@@ -15,7 +15,7 @@ public class FibonacciSeries {
     		int num2=1;
     		
     		for (int i = 0; i <= 7; i++) {
-    			System.out.print( num1 );
+    			System.out.println( num1 );
 
     			int add = num1 + num2;
     			num1 = num2;
